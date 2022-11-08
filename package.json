@@ -2,7 +2,7 @@
   "name": "react-portal-demo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.io/arun9483/react-portal-demo",
+  "homepage": "https://arun9483.github.io/react-portal-demo",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
