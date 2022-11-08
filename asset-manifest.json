@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arun9483/react-portal-demo/static/css/main.b15a1092.css",
+    "main.js": "/arun9483/react-portal-demo/static/js/main.63aa05ad.js",
+    "static/js/787.c29cfbe1.chunk.js": "/arun9483/react-portal-demo/static/js/787.c29cfbe1.chunk.js",
+    "index.html": "/arun9483/react-portal-demo/index.html",
+    "main.b15a1092.css.map": "/arun9483/react-portal-demo/static/css/main.b15a1092.css.map",
+    "main.63aa05ad.js.map": "/arun9483/react-portal-demo/static/js/main.63aa05ad.js.map",
+    "787.c29cfbe1.chunk.js.map": "/arun9483/react-portal-demo/static/js/787.c29cfbe1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b15a1092.css",
+    "static/js/main.63aa05ad.js"
+  ]
+}
