@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-portal-demo/static/css/main.b15a1092.css",
-    "main.js": "/react-portal-demo/static/js/main.e1e0a0ff.js",
+    "main.css": "/react-portal-demo/static/css/main.7731e23d.css",
+    "main.js": "/react-portal-demo/static/js/main.2e5ffa83.js",
     "static/js/787.c29cfbe1.chunk.js": "/react-portal-demo/static/js/787.c29cfbe1.chunk.js",
     "index.html": "/react-portal-demo/index.html",
-    "main.b15a1092.css.map": "/react-portal-demo/static/css/main.b15a1092.css.map",
-    "main.e1e0a0ff.js.map": "/react-portal-demo/static/js/main.e1e0a0ff.js.map",
+    "main.7731e23d.css.map": "/react-portal-demo/static/css/main.7731e23d.css.map",
+    "main.2e5ffa83.js.map": "/react-portal-demo/static/js/main.2e5ffa83.js.map",
     "787.c29cfbe1.chunk.js.map": "/react-portal-demo/static/js/787.c29cfbe1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b15a1092.css",
-    "static/js/main.e1e0a0ff.js"
+    "static/css/main.7731e23d.css",
+    "static/js/main.2e5ffa83.js"
   ]
 }
